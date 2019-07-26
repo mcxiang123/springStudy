@@ -8,4 +8,5 @@ github建立分支文件，进行分支文件修改。
 对于版本文件软件使用    
 just do it  
 add  
-idea branch add content
+idea branch add content  
+
