@@ -7,4 +7,5 @@ github建立master项目  学会使用git基本技术来进行项目版本管理
 github建立分支文件，进行分支文件修改。    
 对于版本文件软件使用    
 just do it  
-add
+add  
+idea branch add content
